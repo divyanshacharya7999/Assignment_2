@@ -84,9 +84,9 @@ class Restaurant:
 
 restaurant = Restaurant()
 
-restaurant.add_menu_item(Food("Pizza", 200, "A classic Italian dish"))
-restaurant.add_menu_item(Drink("Cola", 60, "Non-Alcoholic"))
-restaurant.add_menu_item(Drink("Wine", 500, "Alcoholic"))
+restaurant.add_menu_item(Food("Pizza", 200, "Onion Pizza"))
+restaurant.add_menu_item(Drink("Cola", 60, "Coca-Cola"))
+restaurant.add_menu_item(Drink("Wine", 500, "Budweiser"))
 
 order = restaurant.place_order()
 
