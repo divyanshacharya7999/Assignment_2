@@ -1,0 +1,15 @@
+/Users/priyanshacharya/Projects/customer/customer/bin/Debug/net7.0/customer
+/Users/priyanshacharya/Projects/customer/customer/bin/Debug/net7.0/customer.deps.json
+/Users/priyanshacharya/Projects/customer/customer/bin/Debug/net7.0/customer.runtimeconfig.json
+/Users/priyanshacharya/Projects/customer/customer/bin/Debug/net7.0/customer.dll
+/Users/priyanshacharya/Projects/customer/customer/bin/Debug/net7.0/customer.pdb
+/Users/priyanshacharya/Projects/customer/customer/obj/Debug/net7.0/customer.csproj.AssemblyReference.cache
+/Users/priyanshacharya/Projects/customer/customer/obj/Debug/net7.0/customer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/priyanshacharya/Projects/customer/customer/obj/Debug/net7.0/customer.AssemblyInfoInputs.cache
+/Users/priyanshacharya/Projects/customer/customer/obj/Debug/net7.0/customer.AssemblyInfo.cs
+/Users/priyanshacharya/Projects/customer/customer/obj/Debug/net7.0/customer.csproj.CoreCompileInputs.cache
+/Users/priyanshacharya/Projects/customer/customer/obj/Debug/net7.0/customer.dll
+/Users/priyanshacharya/Projects/customer/customer/obj/Debug/net7.0/refint/customer.dll
+/Users/priyanshacharya/Projects/customer/customer/obj/Debug/net7.0/customer.pdb
+/Users/priyanshacharya/Projects/customer/customer/obj/Debug/net7.0/customer.genruntimeconfig.cache
+/Users/priyanshacharya/Projects/customer/customer/obj/Debug/net7.0/ref/customer.dll
